@@ -1,0 +1,1 @@
+{"fields":[{"id":"a","label":"Source","type":"string"},{"id":"b","label":"Target (MW)","type":"string"},{"id":"c","label":"Actual (MW)","type":"string"}],"data":[["Waste to Power (Urban + Industrial)","58.00","85.15"],["Non-bag Cogen","255.00","336.59"],["Gasifiers","67.00","63.23"],["Acro-Gens\/Hybrid Systems","1.75","1.14"],["SPV Systems","20.00","40.96"]]}
